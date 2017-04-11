@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ./*;./bage-generator.jar;itextpdf-5.5.11.jar
+Main-Class: Main
+

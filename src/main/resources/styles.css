@@ -1,0 +1,24 @@
+@font-face {
+    src: url('font.ttf');
+}
+
+.background {
+    -fx-background-image: url(badge.png);
+    -fx-background-position: center center;
+}
+
+{
+    -fx-font-family : "Museo Sans Cyrl 900";
+    -fx-font-size: 28;
+    -fx-text-fill : #f39324;
+}
+
+.button {
+    -fx-padding : 1;
+}
+
+.text-field {
+    -fx-text-fill : #3757a1;
+    -fx-font-size: 36;
+    -fx-padding : 1;
+}

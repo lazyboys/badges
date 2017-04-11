@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="badge:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/badge_jar</output-path>
+    <root id="archive" name="badge.jar">
+      <element id="module-output" name="badge" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/itextpdf/itextpdf/5.5.11/itextpdf-5.5.11.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
